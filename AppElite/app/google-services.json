@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885392829282",
+    "project_id": "appelite-cd2e8",
+    "storage_bucket": "appelite-cd2e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885392829282:android:1f750bd3791ba62d959a3b",
+        "android_client_info": {
+          "package_name": "com.example.appelite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZFuyrtQe97G0cm_UbAe6BMp1qjezVN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
